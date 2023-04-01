@@ -11,6 +11,7 @@
 | 1245 | ![gold5](/assets/boj_tiers/gold5.svg) | [농장 관리](https://www.acmicpc.net/problem/1245) | [풀이](/Baekjoon/1245/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1245/solutions.py) | 1:00:29 |
 | 1138 | ![silver2](/assets/boj_tiers/silver2.svg) | [한 줄로 서기](https://www.acmicpc.net/problem/1245) | [풀이](/Baekjoon/1138/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1138/solutions.py) | 0:15:22 |
 | 1213 | ![silver3](/assets/boj_tiers/silver3.svg) | [팰린드롬 만들기](https://www.acmicpc.net/problem/1245) | [풀이](/Baekjoon/1213/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1213/solutions.py) | 0:19:03 |
+| 1063 | ![silver3](/assets/boj_tiers/silver3.svg) | [킹](https://www.acmicpc.net/problem/1063) | [풀이](/Baekjoon/1213/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1063/solutions.py) | 0:32:56 |
 
 <br/>
 

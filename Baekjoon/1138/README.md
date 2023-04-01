@@ -1,8 +1,8 @@
-# 피보나치 함수
+# 한 줄로 서기
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 1138 | ![silver2]/assets/boj_tiers/silver2.svg) | 한 줄로 서기 | [문제](https://www.acmicpc.net/problem/1138) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 1138 | ![silver2](/assets/boj_tiers/silver2.svg) | 한 줄로 서기 | [문제](https://www.acmicpc.net/problem/1138) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
 
 <br/>
 
