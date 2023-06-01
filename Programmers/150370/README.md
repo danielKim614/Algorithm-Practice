@@ -2,13 +2,13 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | :-: |
-| 150370 | Level 1 | 개인정보 수집 유효기간 | 2023 KAKAO BLIND RECRUITMENT | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 150370 | Level 1 | 개인정보 수집 유효기간 | 2023 KAKAO BLIND RECRUITMENT | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
-| 언어 | date | time | solutions |
+| 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.03.01 | 0:32:14 | [solutions.py](solutions.py) |
+| Python3 | 2023.03.01 | 0:32:14 | [solution.py](solution.py) |
 
 <br/>
 

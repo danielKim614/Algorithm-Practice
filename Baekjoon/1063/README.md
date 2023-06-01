@@ -2,13 +2,13 @@
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 1063 | ![silver3](/assets/boj_tiers/silver3.svg) | 킹 | [문제](https://www.acmicpc.net/problem/1063) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 1063 | ![silver3](/assets/boj_tiers/silver3.svg) | 킹 | [문제](https://www.acmicpc.net/problem/1063) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
-| 언어 | date | time | solutions |
+| 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.04.02 | 0:32:56 | [solutions.py](solutions.py) |
+| Python3 | 2023.04.02 | 0:32:56 | [solution.py](solution.py) |
 
 <br/>
 

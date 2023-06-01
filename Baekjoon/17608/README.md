@@ -1,14 +1,14 @@
-# 후보 추천하기
+# 막대기
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 1713 | ![silver1](/assets/boj_tiers/silver1.svg) | 후보 추천하기 | [문제](https://www.acmicpc.net/problem/1713) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
+| 17608 | ![bronze1](/assets/boj_tiers/bronze2.svg) | 막대기 | [문제](https://www.acmicpc.net/problem/17608) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
 | 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.04.02 | 0:00:00 | [solution.py](solution.py) |
+| Python3 | 2023.06.01 | 0:04:05 | [solution.py](solution.py) |
 
 <br/>
 

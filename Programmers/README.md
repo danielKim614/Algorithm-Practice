@@ -5,8 +5,8 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 소요시간 |
 | -- | ---- | :-- | :-- | --- | ------ |
-| 118669 | Level&nbsp;3 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 2022 KAKAO TECH INTERNSHIP | [풀이](/Programmers/118669/README.md) [![python3](/assets/languages_icons/python.svg)](/Programmers/118669/solutions.py) | 1:02:37 |
-| 150370 | Level&nbsp;1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | 2023 KAKAO BLIND RECRUITMENT | [풀이](/Programmers/150370/README.md) [![python3](/assets/languages_icons/python.svg)](/Programmers/150370/solutions.py) | 0:32:14 |
+| 118669 | Level&nbsp;3 | [등산코스 정하기](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | 2022 KAKAO TECH INTERNSHIP | [풀이](/Programmers/118669/README.md) [![python3](/assets/languages_icons/python.svg)](/Programmers/118669/solution.py) | 1:02:37 |
+| 150370 | Level&nbsp;1 | [개인정보 수집 유효기간](https://school.programmers.co.kr/learn/courses/30/lessons/150370) | 2023 KAKAO BLIND RECRUITMENT | [풀이](/Programmers/150370/README.md) [![python3](/assets/languages_icons/python.svg)](/Programmers/150370/solution.py) | 0:32:14 |
 
 <br/>
 

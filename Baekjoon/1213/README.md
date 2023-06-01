@@ -2,13 +2,13 @@
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 1138 | ![silver3](/assets/boj_tiers/silver3.svg) | 한 줄로 서기 | [문제](https://www.acmicpc.net/problem/1213) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 1138 | ![silver3](/assets/boj_tiers/silver3.svg) | 한 줄로 서기 | [문제](https://www.acmicpc.net/problem/1213) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
-| 언어 | date | time | solutions |
+| 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.03.31 | 0:19:03 | [solutions.py](solutions.py) |
+| Python3 | 2023.03.31 | 0:19:03 | [solution.py](solution.py) |
 
 <br/>
 

@@ -2,13 +2,13 @@
 
 | ID | 난이도 | 제목 | 분류 | 링크 | 언어 |
 | -- | ---- | :-- | :-- | --- | :-: |
-| 118669 | Level 3 | 등산코스 정하기 | 2022 KAKAO TECH INTERNSHIP | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 118669 | Level 3 | 등산코스 정하기 | 2022 KAKAO TECH INTERNSHIP | [문제](https://school.programmers.co.kr/learn/courses/30/lessons/118669) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
-| 언어 | date | time | solutions |
+| 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.03.03 | 1:02:37 | [solutions.py](solutions.py) |
+| Python3 | 2023.03.03 | 1:02:37 | [solution.py](solution.py) |
 
 <br/>
 

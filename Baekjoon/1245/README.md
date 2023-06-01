@@ -2,13 +2,13 @@
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 1245 | ![gold5](/assets/boj_tiers/gold5.svg) | 농장 관리 | [문제](https://www.acmicpc.net/problem/1245) | [![python3](/assets/languages_icons/python.svg)](solutions.py) |
+| 1245 | ![gold5](/assets/boj_tiers/gold5.svg) | 농장 관리 | [문제](https://www.acmicpc.net/problem/1245) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
-| 언어 | date | time | solutions |
+| 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.02.26 | 1:00:29 | [solutions.py](solutions.py) |
+| Python3 | 2023.02.26 | 1:00:29 | [solution.py](solution.py) |
 
 <br/>
 
