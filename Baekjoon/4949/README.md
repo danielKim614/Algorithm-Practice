@@ -1,14 +1,14 @@
-# 막대기
+# 균형잡인 세상
 
 | ID | 난이도 | 제목 | 링크 | 언어 |
 | -- | :--: | :-- | --- | :-: |
-| 17608 | ![bronze1](/assets/boj_tiers/bronze2.svg) | 막대기 | [문제](https://www.acmicpc.net/problem/17608) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
+| 4949 | ![silver4](/assets/boj_tiers/silver4.svg) | 균형잡인 세상 | [문제](https://www.acmicpc.net/problem/4949) | [![python3](/assets/languages_icons/python.svg)](solution.py) |
 
 <br/>
 
 | 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.06.01 | 0:06:48 | [solution.py](solution.py) |
+| Python3 | 2023.06.05 | 0:13:21 | [solution.py](solution.py) |
 
 <br/>
 

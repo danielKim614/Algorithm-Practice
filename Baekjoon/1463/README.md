@@ -8,7 +8,7 @@
 
 | 언어 | date | time | solution |
 | --- | ----- | -------- | ------ |
-| Python3 | 2023.04.02 | 0:00:00 | [solution.py](solution.py) |
+| Python3 | 2023.04.02 | 0:10:24 | [solution.py](solution.py) |
 
 <br/>
 
