@@ -3,8 +3,8 @@
 
 ## 문제 목록
 
-| ID | 난이도 | 제목 | 링크 | 소요 시간 |
-| -- | :--: | :-- | --- | :-----: |
+| ID | 난이도 | 제목 | 링크 |
+| -- | :--: | :-- | --- |
 | 1316 | ![silver5](/assets/boj_tiers/silver5.svg) | [그룹 단어 체커](https://www.acmicpc.net/problem/1316) | [풀이](/Baekjoon/1316/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1316/solution.py) |
 | 1003 | ![silver3](/assets/boj_tiers/silver3.svg) | [피보나치 함수](https://www.acmicpc.net/problem/1003) | [풀이](/Baekjoon/1003/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1003/solution.py) |
 | 1463 | ![silver3](/assets/boj_tiers/silver3.svg) | [1로 만들기](https://www.acmicpc.net/problem/1463) | [풀이](/Baekjoon/1463/README.md) [![python3](/assets/languages_icons/python.svg)](/Baekjoon/1463/solution.py) |
